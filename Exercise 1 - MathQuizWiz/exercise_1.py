@@ -224,7 +224,6 @@ def displayResults(): # This displays the total score of the Quiz per difficulty
     elif score > 90 and  score <= 100:
         rating = "A"
 
-
     t2.insert(END, f"Total Score is: {score}.\nRating: {rating}")
 
 ##################################

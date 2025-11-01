@@ -16,9 +16,12 @@ Each exercises had us build our code with new techniques in mind with new tools 
 **Exercise 3 - Student Manager**
 
 ## Exercise 1 - Math Quiz: 
-We were tasked to make a math quiz that has 3 difficulties: Easy, Moderate, and Hard. All of the equations would either be addition or subtraction. If you picked Easy, you would only deal with 1 digits being added together. If it were Moderate, it would be two digits being added together. If it were hard, it would be 4 digits. 
+We were tasked to make a math quiz that has 3 difficulties: Easy, Moderate, and Hard. All of the equations would either be addition or subtraction. If you picked Easy, you would only deal with 1 digits being added together. If it were Moderate, it would be two digits being added together. If it were hard, it would be 4 digits. The quiz would also have a scoring system that grades the user based on how they performed throughout the quizes. The quiz would not be ruthless as it would give you a chance to get it right once, except it will only reward you half the points you're supposed to earn.
+
+All of this were 
 
 ## Exercise 2 -  Alexa Tell Me A Joke:
+
 
 
 ## Exercise 3 - Student Manager:
